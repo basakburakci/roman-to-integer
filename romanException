@@ -1,0 +1,4 @@
+public class romanException extends Exception {
+    public romanException(){
+    }
+}
